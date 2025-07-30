@@ -31,7 +31,7 @@ The goal of this project is to automate the detection of cell anomalies in micro
 ```
 Cells.ipynb           # Jupyter notebook with all code and explanations
 Cells.png             # Input image (original cell image)
-Cells_result.png      # Output/result image (with detected anomalies and boundaries)
+Result.png      # Output/result image (with detected anomalies and boundaries)
 README.md             # Project documentation
 ```
 
